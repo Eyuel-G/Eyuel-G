@@ -1,4 +1,4 @@
-# Greetings 👋
+# Greetings👋
 
 I'm **Eyuel Getachew**, a passionate and curious developer who enjoys building practical software solutions and continuously expanding my knowledge in modern technologies. I am deeply interested in understanding how software systems work and applying that knowledge to create useful applications. My goal is to grow into a well-rounded developer by consistently learning, building projects, and exploring new tools and frameworks.
 
