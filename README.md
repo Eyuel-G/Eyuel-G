@@ -1,4 +1,4 @@
-# Hi, I'm Eyuel Getachew 👋
+# Greetings, I'm Eyuel Getachew 👋
 
 Software developer focused on full-stack web development. I enjoy building practical, real-world applications and continuously deepening my understanding of how systems work under the hood.
 
@@ -58,22 +58,6 @@ Software developer focused on full-stack web development. I enjoy building pract
 <p align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Eyuel-G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" alt="GitHub Stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=Eyuel-G&theme=tokyonight&hide_border=true&background=161B22&stroke=161B22&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eyuel-G&layout=compact&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages" />
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eyuel-G&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
-</p>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eyuel-G&theme=tokyo-night&hide_border=true&bg_color=161B22&color=7AA2F7&line=BB9AF7&point=C0CAF5" alt="Activity Graph" />
 </p>
 
 ## 📫 Connect
