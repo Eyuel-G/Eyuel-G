@@ -15,12 +15,15 @@ Software developer focused on full-stack web development. I enjoy building pract
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,35 +33,42 @@ Software developer focused on full-stack web development. I enjoy building pract
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Eyuel-G&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&ring_color=BF63FF&icon_color=FF3379&title_color=BF63FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Eyuel-G&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=BF63FF&fire=FF3379&currStreakLabel=BF63FF" alt="GitHub Streak Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eyuel-G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Eyuel-G&theme=tokyonight&hide_border=true&background=161B22&stroke=161B22&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyuel-G&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=BF63FF&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyuel-G&layout=compact&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages" />
 </p>
 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eyuel-G&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Eyuel-G&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
 </p>
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eyuel-G&theme=react-dark&hide_border=true&bg_color=0D1117&color=BF63FF&line=FF3379&point=FFFFFF" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eyuel-G&theme=tokyo-night&hide_border=true&bg_color=161B22&color=7AA2F7&line=BB9AF7&point=C0CAF5" alt="Activity Graph" />
 </p>
 
 ## 📫 Connect
@@ -68,7 +78,7 @@ Software developer focused on full-stack web development. I enjoy building pract
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eyuel-G&style=flat&color=BF63FF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Eyuel-G&style=flat&color=7AA2F7" alt="Profile Views" />
 </p>
 
 <p align="center">⭐ <i>Always learning, always building.</i></p>
