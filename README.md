@@ -38,7 +38,12 @@ Software developer focused on full-stack web development. I enjoy building pract
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Tools & Platforms**
 
@@ -51,12 +56,12 @@ Software developer focused on full-stack web development. I enjoy building pract
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eyuel-G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Eyuel-G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" alt="GitHub Stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=Eyuel-G&theme=tokyonight&hide_border=true&background=161B22&stroke=161B22&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyuel-G&layout=compact&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eyuel-G&layout=compact&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=7AA2F7&text_color=C0CAF5" alt="Top Languages" />
 </p>
 
 ## 🏆 Trophies
