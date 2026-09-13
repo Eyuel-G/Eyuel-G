@@ -4,8 +4,10 @@ on:
   schedule:
     - cron: "0 3 * * *"  # Runs every day at 03:00 UTC
   push:
-    paths:
-      - ".github/workflows/streak-stats.yml"
+    branches:
+      - main
+    paths-ignore:
+      - "profile/streak.svg"
   workflow_dispatch:  # Lets you trigger it manually from the Actions tab
 
 jobs:
