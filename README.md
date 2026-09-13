@@ -1,4 +1,4 @@
-# Greetings, I'm Eyuel Getachew 👋
+# Hi, I'm Eyuel Getachew 👋
 
 Software developer focused on full-stack web development. I enjoy building practical, real-world applications and continuously deepening my understanding of how systems work under the hood.
 
@@ -56,8 +56,8 @@ Software developer focused on full-stack web development. I enjoy building pract
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Eyuel-G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Eyuel-G&theme=tokyonight&hide_border=true&background=161B22&stroke=161B22&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub Streak Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Eyuel-G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&v=2" alt="GitHub Stats" />
+  <img height="165" src="./profile/streak.svg" alt="GitHub Streak Stats" />
 </p>
 
 ## 📫 Connect
