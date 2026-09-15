@@ -56,7 +56,7 @@ Software developer focused on full-stack web development. I enjoy building pract
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Eyuel-G&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&v=2" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Eyuel-G&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&v=2" alt="GitHub Stats" />
   <img height="165" src="./profile/streak.svg" alt="GitHub Streak Stats" />
 </p>
 
