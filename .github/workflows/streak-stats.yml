@@ -2,7 +2,7 @@ name: Update streak stats
 
 on:
   schedule:
-    - cron: "0 3 * * *"  # Runs every day at 03:00 UTC
+    - cron: "0 * * * *"  # Runs every hour
   push:
     branches:
       - main
