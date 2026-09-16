@@ -21,9 +21,9 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=161B22&stroke=161B22&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=161B22&stroke=161B22&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&user_timezone=Africa/Addis_Ababa
           path: profile/streak.svg
-          token: ${{ secrets.STREAK_STATS_TOKEN }}
+          token: ${{ secrets.STREAK_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit streak stats
         run: |
@@ -32,3 +32,4 @@ jobs:
           git add profile/streak.svg
           git commit -m "Update streak stats" || exit 0
           git push
+
