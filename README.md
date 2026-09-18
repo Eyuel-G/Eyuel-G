@@ -60,7 +60,7 @@ Software developer focused on full-stack web development. I enjoy building pract
   <img height="165" src="./profile/streak.svg" alt="GitHub Streak Stats" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Eyuel-G/Eyuel-G/main/profile/max-commits.json&style=flat-square" alt="Max commits in a day" />
+  <img src="./profile/max-commits.svg" alt="Max Commits in a Day" />
 </p>
 
 ## 📫 Connect

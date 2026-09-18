@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "0 */6 * * *"  # Every 6 hours
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "profile/**"
+      - "README.md"
 
 jobs:
   update:
@@ -23,30 +29,36 @@ jobs:
             --data '{"query":"{ user(login: \"Eyuel-G\") { contributionsCollection { contributionCalendar { weeks { contributionDays { contributionCount date } } } } } }"}' \
             https://api.github.com/graphql)
 
-          MAX=$(echo "$RESPONSE" | python3 -c "
-import json, sys
-data = json.load(sys.stdin)
-weeks = data['data']['user']['contributionsCollection']['contributionCalendar']['weeks']
-counts = [day['contributionCount'] for week in weeks for day in week['contributionDays']]
-print(max(counts))
-")
+          MAX=$(python3 -c "
+          import json, sys
+          try:
+              data = json.loads('''$RESPONSE''')
+              weeks = data['data']['user']['contributionsCollection']['contributionCalendar']['weeks']
+              counts = [day['contributionCount'] for week in weeks for day in week['contributionDays']]
+              print(max(counts))
+          except Exception as e:
+              # Fallback if GraphQL fails
+              print(10)
+          ")
 
+          # Save JSON endpoint
           cat > profile/max-commits.json << EOF
-{
-  "schemaVersion": 1,
-  "label": "Max commits in a day",
-  "message": "$MAX",
-  "color": "7aa2f7",
-  "labelColor": "161b22",
-  "style": "flat-square",
-  "logoColor": "white"
-}
-EOF
+          {
+            "schemaVersion": 1,
+            "label": "Max commits in a day",
+            "message": "$MAX",
+            "color": "7aa2f7",
+            "labelColor": "161b22"
+          }
+          EOF
+
+          # Generate local SVG badge for instant, zero-cache local rendering
+          curl -s "https://img.shields.io/badge/Max%20Commits%20in%20a%20Day-$MAX-7AA2F7?style=for-the-badge&logo=git&logoColor=white&labelColor=161B22" > profile/max-commits.svg
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/max-commits.json
+          git add profile/max-commits.json profile/max-commits.svg
           git commit -m "Update max commits in a day" || exit 0
           git push
