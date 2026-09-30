@@ -63,7 +63,7 @@ Software developer focused on full-stack web development. I enjoy building pract
   <img src="./profile/max-commits.svg" alt="Max Commits in a Day" />
 </p>
 
-## 📫 Connect
+## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Eyuel--G-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eyuel-G)
 
