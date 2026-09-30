@@ -9,7 +9,7 @@ Software developer focused on full-stack web development. I enjoy building pract
 - 🤖 Exploring AI tooling and building developer productivity tools
 - 🌱 Always experimenting with new frameworks and improving my development workflow
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -53,7 +53,7 @@ Software developer focused on full-stack web development. I enjoy building pract
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="145" src="https://github-readme-stats-fast.vercel.app/api?username=Eyuel-G&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=161B22&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&hide=contribs&v=2" alt="GitHub Stats" />
