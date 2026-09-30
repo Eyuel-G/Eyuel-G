@@ -1,4 +1,4 @@
-# Hi, I'm Eyuel Getachew 👋
+# Hi, I'm Eyuel Getachew
 
 Software developer focused on full-stack web development. I enjoy building practical, real-world applications and continuously deepening my understanding of how systems work under the hood.
 
