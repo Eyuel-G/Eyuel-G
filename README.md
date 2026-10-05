@@ -3,7 +3,6 @@
 Software developer focused on full-stack web development. I enjoy building practical, real-world applications and continuously deepening my understanding of how systems work under the hood.
 
 - Currently working with **React**, **Node.js**, **Laravel**, and **Next.js**
-- Building e-learning content and digital literacy tools
 - Learning backend design, frontend component architecture, and automation workflows
 - Interested in system design, problem solving, and clean, maintainable code
 - Exploring AI tooling and building developer productivity tools
