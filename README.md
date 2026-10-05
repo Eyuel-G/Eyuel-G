@@ -73,4 +73,4 @@ Software developer focused on full-stack web development. I enjoy building pract
   <img src="https://komarev.com/ghpvc/?username=Eyuel-G&style=flat&color=7AA2F7" alt="Profile Views" />
 </p>
 
-<p align="center">⭐ <i>Always learning, always building.</i></p>
+<p align="center"><i>Looking for every opportunity to grow, learn and collaborate!!!</i></p>
